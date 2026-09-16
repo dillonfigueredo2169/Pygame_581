@@ -6,6 +6,9 @@ All the code below, aside from comments and a few edits to names/formatting, was
 I, Aidan Prather, read through the code, commented parts explaining functionality, and verified the logic.
 """
 
+# import modules
+import random
+
 class Board:
     """Holds minesweeper grid state and game logic."""
 
