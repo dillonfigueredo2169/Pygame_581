@@ -1,6 +1,6 @@
-# run the game
 from Game import Game
 
+# run the game
 def main():
     Game().run()
 
