@@ -23,7 +23,7 @@ COLOR_BUTTON_HOVER = (100, 160, 210)
 # ---------------------------------------------------------------------------
 
 class Button:
-    """Renders interactable rectangles"""
+    """Renders interactable buttons"""
 
     def __init__(self, rect, text, font):
         self.rect = pygame.Rect(rect)
