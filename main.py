@@ -317,10 +317,7 @@ class Game:
         )
         self.screen.blit(hint, hint.get_rect(center=(WINDOW_WIDTH // 2, WINDOW_HEIGHT // 2 + 20)))
 
-    # Code used for UI testing
-    # [GAME LOGIC & BOARD]
-    # PLEASE REVIEW AND COMMENT THIS
-    '''
+    
     # -- main loop ----------------------------------------------------------
     def run(self):
         while True:
@@ -402,7 +399,7 @@ class Game:
                 self.board.reveal(row, col)
         elif button == 3:  # right click
             self.board.toggle_flag(row, col)
-    '''
+    
 
 
 # run the game
