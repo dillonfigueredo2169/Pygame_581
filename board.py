@@ -111,6 +111,8 @@ class Board:
     def toggle_flag(self, r, c):
         if self.game_over or self.revealed[r][c]:
             return
+        if self.flags_placed() == self.mine_count and not self.flagged[r][c]:
+            return
         self.flagged[r][c] = not self.flagged[r][c]
 
     def flags_placed(self):
