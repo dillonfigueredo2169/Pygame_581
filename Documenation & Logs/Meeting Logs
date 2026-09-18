@@ -1,0 +1,28 @@
+MEETING NOTES
+Team Meeting 9.11
+WHEN: Wednesday, September 11th @10:00am @Eaton 3001
+PURPOSE: First team meeting, set up
+ATTENDANCE: Maxwell, Nathan, Warren, Aidan, Dillon, Fabri (In person)
+
+ROLES:
+Logger/UI: Maxwell
+Project Manager: Nathan
+Game Logic & Board: Aidan/Dillon
+Input Handler/UI: Warren, Cyn
+Game Tester: Fabri
+
+The meeting was at 10:00 AM and the meeting lasted 50 minutes. We brainstormed/assigned teams our roles, and decided the general direction for the project. Maxwell created the meeting logs. Aidan and Dillon created the GitHub repository and invited everyone. Everyone but Cyn was in attendance for the meeting. We also discussed what the project entails, using Pygame, and arranged to get the game logic done, and to Fabri by Wednesday to test the game.
+
+Team Meeting 9.18
+WHEN: Wednesday, September 18th @10:00am @Eaton 3001
+PURPOSE: First team meeting, set up
+ATTENDANCE: Maxwell, Nathan, Warren, Aidan, Dillon, Fabri, Cyn (In person)
+
+ROLES:
+Logger/UI: Maxwell
+Project Manager: Nathan
+Game Logic & Board: Aidan/Dillon
+Input Handler/UI: Warren, Cyn
+Game Tester: Fabri
+
+The meeting was at 10:00 AM and lasted 30 minutes. We briefly checked in about what work each person did and the general amount of time they took. We also briefly discussed including the testing file into the repo for the group that will be reviewing and modifying the group code, as well as anything else that would be needed for the project. The only thing left to do that was noted is finish the documentation and make sure everything is up to date in the repo, as well as completing the peer review.
